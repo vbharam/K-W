@@ -29,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "049BE7FF1C7F263600D96E24"
+            BuildableName = "K@W.app"
+            BlueprintName = "K@W"
+            ReferencedContainer = "container:../KnowledgeAtWharton.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -42,15 +51,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "79C040AFDDCE1BCBF6D8B5EB0B85887F"
-            BuildableName = "Alamofire.framework"
-            BlueprintName = "Alamofire"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "049BE7FF1C7F263600D96E24"
+            BuildableName = "K@W.app"
+            BlueprintName = "K@W"
+            ReferencedContainer = "container:../KnowledgeAtWharton.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>

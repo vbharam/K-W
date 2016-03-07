@@ -196,7 +196,7 @@
 		049BE7F71C7F263600D96E24 = {
 			isa = PBXGroup;
 			children = (
-				049BE8021C7F263600D96E24 /* K@W */,
+				049BE8021C7F263600D96E24 /* KnowledgeAtWharton */,
 				049BE8011C7F263600D96E24 /* Products */,
 				9AAA0DBCED3C26013423D8D9 /* Pods */,
 				5DD47EC4C8309E3DF6999329 /* Frameworks */,
@@ -211,7 +211,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		049BE8021C7F263600D96E24 /* K@W */ = {
+		049BE8021C7F263600D96E24 /* KnowledgeAtWharton */ = {
 			isa = PBXGroup;
 			children = (
 				47F9742F1C8D838C006F3C09 /* KeyChain */,
@@ -238,7 +238,7 @@
 				47F396771C7F2CF500FE5B5A /* Assets.xcassets */,
 				049BE80F1C7F263700D96E24 /* Info.plist */,
 			);
-			path = "K@W";
+			path = KnowledgeAtWharton;
 			sourceTree = "<group>";
 		};
 		25087E341C7FE7DC00B7C000 /* Services */ = {
@@ -490,7 +490,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 049BE7FB1C7F263600D96E24 /* Build configuration list for PBXProject "K@W" */;
+			buildConfigurationList = 049BE7FB1C7F263600D96E24 /* Build configuration list for PBXProject "KnowledgeAtWharton" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -775,7 +775,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		049BE7FB1C7F263600D96E24 /* Build configuration list for PBXProject "K@W" */ = {
+		049BE7FB1C7F263600D96E24 /* Build configuration list for PBXProject "KnowledgeAtWharton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				049BE8101C7F263700D96E24 /* Debug */,

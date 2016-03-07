@@ -3,7 +3,7 @@
 platform :ios, '8.0'
 use_frameworks!
 
-target 'K@W' do
+target 'KnowledgeAtWharton' do
 pod 'MVCarouselCollectionView'
 pod 'Alamofire', '~> 3.0'
 end
